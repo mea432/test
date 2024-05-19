@@ -1,7 +1,7 @@
 {
 	"valid_key": {
 		"id": "asdf",
-		"expire": "20.05.2024
+		"expire": "20.05.2024"
 	},
 	"expired_key": {
 		"id": "huh",
